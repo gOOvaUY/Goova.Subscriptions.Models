@@ -6,5 +6,7 @@
         public string CommerceNumber { get; set; }
         public string CommerceTerminalNumber { get; set; }
         public int IssuerId { get; set; }
+        public string PFCommerceId { get; set; }
+        public string PFId { get; set; }
     }
 }
